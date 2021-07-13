@@ -1,0 +1,62 @@
+body{
+    
+}
+#grid view{
+    background-color:#FAFAFA; 
+}
+#blst{
+    height:300px;
+}
+#image{
+    height:300px;
+    width:300px;
+}
+#blpo{
+    height:300px;
+    width:300px;
+}
+#text{
+    color: white;
+}
+#rose{
+    height:300px;
+    width:300px;
+}
+#cf{
+    height:600px;
+    width:600px;
+}
+#g{
+    color:white;
+    text-align: center;
+}
+#s{
+    color:white;
+    text-align: center;
+}
+#cip{
+    height:300px;
+    width:300px;
+}
+#mynavbar{
+    color:white;
+}
+#gs{
+    height:300px;
+    width:300px;
+}
+#ya{
+    height:300px;
+    width:300px;
+}
+#pg{
+    height:300px;
+    width:300px;
+}
+#p{
+    color:white;
+}
+.img-responsive{
+    height:500px;
+    width:500px;
+}
